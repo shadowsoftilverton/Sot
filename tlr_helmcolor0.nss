@@ -1,0 +1,17 @@
+//::///////////////////////////////////////////////
+//:: Tailoring - Dye Helm Color 0
+//:: tlr_helmcolor0.nss
+//:://////////////////////////////////////////////
+/*
+    Sets the color to 0.
+*/
+//:://////////////////////////////////////////////
+//:: Created By: Stacy L. Ropella
+//:: from Mandragon's mil_tailor
+//:://////////////////////////////////////////////
+void main()
+{
+    SetLocalInt(OBJECT_SELF, "ColorToDye", 0);
+
+    ExecuteScript("tlr_dyehelm", OBJECT_SELF);
+}

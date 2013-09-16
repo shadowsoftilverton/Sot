@@ -1,0 +1,17 @@
+//::///////////////////////////////////////////////
+//:: Tailoring - Dye Helm Color 2
+//:: tlr_helmcolor2.nss
+//:://////////////////////////////////////////////
+/*
+    Sets the color to 2.
+*/
+//:://////////////////////////////////////////////
+//:: Created By: Stacy L. Ropella
+//:: from Mandragon's mil_tailor
+//:://////////////////////////////////////////////
+void main()
+{
+    SetLocalInt(OBJECT_SELF, "ColorToDye", 2);
+
+    ExecuteScript("tlr_dyehelm", OBJECT_SELF);
+}

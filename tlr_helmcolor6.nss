@@ -1,0 +1,17 @@
+//::///////////////////////////////////////////////
+//:: Tailoring - Dye Helm Color 6
+//:: tlr_helmcolor6.nss
+//:://////////////////////////////////////////////
+/*
+    Sets the color to 6.
+*/
+//:://////////////////////////////////////////////
+//:: Created By: Stacy L. Ropella
+//:: from Mandragon's mil_tailor
+//:://////////////////////////////////////////////
+void main()
+{
+    SetLocalInt(OBJECT_SELF, "ColorToDye", 6);
+
+    ExecuteScript("tlr_dyehelm", OBJECT_SELF);
+}

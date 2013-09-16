@@ -1,0 +1,17 @@
+//::///////////////////////////////////////////////
+//:: Tailoring - Dye Helm Color 3
+//:: tlr_helmcolor3.nss
+//:://////////////////////////////////////////////
+/*
+    Sets the color to 3.
+*/
+//:://////////////////////////////////////////////
+//:: Created By: Stacy L. Ropella
+//:: from Mandragon's mil_tailor
+//:://////////////////////////////////////////////
+void main()
+{
+    SetLocalInt(OBJECT_SELF, "ColorToDye", 3);
+
+    ExecuteScript("tlr_dyehelm", OBJECT_SELF);
+}
