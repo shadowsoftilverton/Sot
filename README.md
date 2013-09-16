@@ -6,14 +6,18 @@ The Shadows of Tilverton script code and module.
 Much of this code is copyright Bioware. Some of it has been contributed to the SoT module by:
 
 Ashton "Foxtrot" S.
+
 Stephen "Invictus" Y.
-Daniel "Avesenchai" Pages
+
+Daniel "Avesenchai" P.
+
 Ian "Hardcore UFO" D.
+
 "JJPSX"
 
 ---
 
-This code originall powered the roleplay server Shadows of Tilverton.
+This code originally powered the roleplay server Shadows of Tilverton.
 
 It's now actively in-use on the social server The Shattered Realms.
 
