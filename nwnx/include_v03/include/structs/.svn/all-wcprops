@@ -1,0 +1,881 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/nwnx2-linux/!svn/ver/322/trunk/include/structs
+END
+CExoBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoBase.h
+END
+CNWSAreaOfEffectObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSAreaOfEffectObject.h
+END
+CExoLocStringElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoLocStringElement.h
+END
+CNWSTrigger.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/69/trunk/include/structs/CNWSTrigger.h
+END
+CNWSDoor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSDoor.h
+END
+CNWBaseItemArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWBaseItemArray.h
+END
+CResStruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResStruct.h
+END
+CGameObjectArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CGameObjectArray.h
+END
+CNWRules.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nwnx2-linux/!svn/ver/184/trunk/include/structs/CNWRules.h
+END
+CVirtualMachineCmdImplementer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CVirtualMachineCmdImplementer.h
+END
+CNWSWaypoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSWaypoint.h
+END
+CNWItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWItem.h
+END
+CNWSCombatRound.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSCombatRound.h
+END
+CResLTR.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResLTR.h
+END
+CNWSMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSMessage.h
+END
+CNWSScriptVarTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/nwnx2-linux/!svn/ver/107/trunk/include/structs/CNWSScriptVarTable.h
+END
+CServerExoApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CServerExoApp.h
+END
+CExoLinkedListNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoLinkedListNode.h
+END
+CExoLinkedListHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoLinkedListHeader.h
+END
+CNWSItemPropertyHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSItemPropertyHandler.h
+END
+CNWAmbientSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWAmbientSound.h
+END
+CNWBaseItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWBaseItem.h
+END
+CExoResMan.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoResMan.h
+END
+CNWSDungeonMaster.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSDungeonMaster.h
+END
+CExtendedServerInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExtendedServerInfo.h
+END
+CDialogNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CDialogNode.h
+END
+CNWTileSetManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWTileSetManager.h
+END
+CAppManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CAppManager.h
+END
+CVirtualMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CVirtualMachine.h
+END
+CResGFF.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResGFF.h
+END
+CNWSStats_Level.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSStats_Level.h
+END
+CNWSPlayerLUOInventory.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSPlayerLUOInventory.h
+END
+CNetLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNetLayer.h
+END
+CExoBaseInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoBaseInternal.h
+END
+CResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResource.h
+END
+CRes.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CRes.h
+END
+CNWTileData.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWTileData.h
+END
+CItemRepository.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nwnx2-linux/!svn/ver/106/trunk/include/structs/CItemRepository.h
+END
+CExoAliasList.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoAliasList.h
+END
+CNWSPlayerLastUpdateObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSPlayerLastUpdateObject.h
+END
+CNWSPlayerLUOSortedObjectList.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSPlayerLUOSortedObjectList.h
+END
+CObjectTableManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CObjectTableManager.h
+END
+CNWDomain.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWDomain.h
+END
+CLastUpdatePartyObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CLastUpdatePartyObject.h
+END
+CNWRace.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWRace.h
+END
+CNWSCombatAttackData.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSCombatAttackData.h
+END
+CServerExoAppInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nwnx2-linux/!svn/ver/274/trunk/include/structs/CServerExoAppInternal.h
+END
+CNWSQuickbarButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSQuickbarButton.h
+END
+CNWSCreatureClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSCreatureClass.h
+END
+CNWMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWMessage.h
+END
+CTlkFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CTlkFile.h
+END
+CResDWK.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResDWK.h
+END
+CNWSCombatRoundAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSCombatRoundAction.h
+END
+CResSET.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResSET.h
+END
+CNWSClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSClient.h
+END
+CNWSPlayerInventoryGUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSPlayerInventoryGUI.h
+END
+CNWItemProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWItemProperty.h
+END
+CScriptVariable.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nwnx2-linux/!svn/ver/107/trunk/include/structs/CScriptVariable.h
+END
+CResPWK.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResPWK.h
+END
+CNWSFaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSFaction.h
+END
+CDialogReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CDialogReply.h
+END
+CEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CEvent.h
+END
+CResList.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResList.h
+END
+CNWSStats_Spell.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nwnx2-linux/!svn/ver/246/trunk/include/structs/CNWSStats_Spell.h
+END
+CBaseExoApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/72/trunk/include/structs/CBaseExoApp.h
+END
+CServerAIMaster.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CServerAIMaster.h
+END
+CNWSArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nwnx2-linux/!svn/ver/112/trunk/include/structs/CNWSArea.h
+END
+CVirtualMachineScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CVirtualMachineScript.h
+END
+CNWSCreature.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/nwnx2-linux/!svn/ver/265/trunk/include/structs/CNWSCreature.h
+END
+all.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/nwnx2-linux/!svn/ver/112/trunk/include/structs/all.h
+END
+CNWSBarter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSBarter.h
+END
+CCombatInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CCombatInformation.h
+END
+CExoKeyTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoKeyTable.h
+END
+CERFFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CERFFile.h
+END
+CExoLinkedList.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoLinkedList.h
+END
+CRes2DA.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CRes2DA.h
+END
+CGameEffectListHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CGameEffectListHandler.h
+END
+CExoLocString.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoLocString.h
+END
+CNWSpellArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nwnx2-linux/!svn/ver/322/trunk/include/structs/CNWSpellArray.h
+END
+CNWSTile.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSTile.h
+END
+CNWSStats_FeatUses.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSStats_FeatUses.h
+END
+CTwoDimArrays.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CTwoDimArrays.h
+END
+CResRef.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResRef.h
+END
+CNWSItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nwnx2-linux/!svn/ver/180/trunk/include/structs/CNWSItem.h
+END
+CGameEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/nwnx2-linux/!svn/ver/138/trunk/include/structs/CGameEffect.h
+END
+CExoArrayList.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/nwnx2-linux/!svn/ver/66/trunk/include/structs/CExoArrayList.h
+END
+CNWSDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSDialog.h
+END
+CNWSStats_SpecAbil.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSStats_SpecAbil.h
+END
+CNWSForcedAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSForcedAction.h
+END
+CExoIni.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoIni.h
+END
+CGameObject_VTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/nwnx2-linux/!svn/ver/298/trunk/include/structs/CGameObject_VTable.h
+END
+CLastUpdateObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CLastUpdateObject.h
+END
+CScriptCompiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CScriptCompiler.h
+END
+CNWSAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSAction.h
+END
+CObjectLookupTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CObjectLookupTable.h
+END
+CFactionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CFactionManager.h
+END
+CExoStringList.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoStringList.h
+END
+CNWSAmbientSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSAmbientSound.h
+END
+CNWSAreaGridSuccessors.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSAreaGridSuccessors.h
+END
+CWorldTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CWorldTimer.h
+END
+CNWCCMessageData.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWCCMessageData.h
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/Vector.h
+END
+CResGFFFieldIDHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResGFFFieldIDHash.h
+END
+CNWSJournal.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSJournal.h
+END
+CPathfindInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CPathfindInformation.h
+END
+CNWSSoundObjectTimeOfDay.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSSoundObjectTimeOfDay.h
+END
+CNWClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nwnx2-linux/!svn/ver/184/trunk/include/structs/CNWClass.h
+END
+CNWSModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/112/trunk/include/structs/CNWSModule.h
+END
+CNWSEffectListHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSEffectListHandler.h
+END
+CNWSCreatureStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/nwnx2-linux/!svn/ver/322/trunk/include/structs/CNWSCreatureStats.h
+END
+CNWSkill.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSkill.h
+END
+CDialogSpeak.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CDialogSpeak.h
+END
+CNWFeat.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWFeat.h
+END
+CResTGA.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResTGA.h
+END
+CNWSInventory.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSInventory.h
+END
+CNWVirtualMachineImplementation.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWVirtualMachineImplementation.h
+END
+CNWSEncounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSEncounter.h
+END
+CExoFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoFile.h
+END
+CVirtualMachineDebuggingContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CVirtualMachineDebuggingContext.h
+END
+CResNCS.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResNCS.h
+END
+CScriptLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CScriptLocation.h
+END
+CNWSObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/138/trunk/include/structs/CNWSObject.h
+END
+CNWSCreatureAppearanceInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSCreatureAppearanceInfo.h
+END
+CNWSPlaceable.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nwnx2-linux/!svn/ver/173/trunk/include/structs/CNWSPlaceable.h
+END
+CExoRand.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoRand.h
+END
+CGameObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/nwnx2-linux/!svn/ver/111/trunk/include/structs/CGameObject.h
+END
+CNWCreatureStatsUpdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWCreatureStatsUpdate.h
+END
+CNWVirtualMachineCommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWVirtualMachineCommands.h
+END
+CExoDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoDebug.h
+END
+CTlkTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CTlkTable.h
+END
+CTlkTableToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CTlkTableToken.h
+END
+C2DA.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/C2DA.h
+END
+CScriptEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CScriptEvent.h
+END
+CNWSSoundObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSSoundObject.h
+END
+CResWOK.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResWOK.h
+END
+CResNSS.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResNSS.h
+END
+CResNDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CResNDB.h
+END
+CNWArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWArea.h
+END
+CExoTimers.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoTimers.h
+END
+CNWNameGen.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWNameGen.h
+END
+CEncounterListEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CEncounterListEntry.h
+END
+CExoString.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CExoString.h
+END
+CNWSPlayerTURD.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSPlayerTURD.h
+END
+CNWSpell.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nwnx2-linux/!svn/ver/322/trunk/include/structs/CNWSpell.h
+END
+CNWSStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nwnx2-linux/!svn/ver/57/trunk/include/structs/CNWSStore.h
+END
+CNWSPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nwnx2-linux/!svn/ver/167/trunk/include/structs/CNWSPlayer.h
+END
